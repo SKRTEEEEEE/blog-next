@@ -2,6 +2,7 @@ import {posts} from "#site/content"
 import { PostItem } from "@/components/post-item";
 import { QueryPagination } from "@/components/query-pagination";
 import { sortPosts } from "@/lib/utils";
+import { Metadata } from "next";
 
 const POSTS_PAGE = 5;
 
@@ -9,6 +10,11 @@ interface BlogPageProps {
     searchParams: {
         page?: string;
     }
+}
+
+export const metadata: Metadata = {
+    title: "Skrt Blog",
+    description: "This is a example blog by Skrt"
 }
 
 export default async function BlogPage({searchParams}: BlogPageProps){
