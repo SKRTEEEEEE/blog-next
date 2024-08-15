@@ -29,7 +29,7 @@ export default function Home() {
     </h3>
     <ul className="flex flex-col">
       {latestPosts.map(post=><li key={post.slug} className="first:border-t first:border-border">
-        <PostItem slug={post.slug} title={post.title} description={post.description} date={post.date}/>
+        <PostItem slug={post.slug} title={post.title} description={post.description} date={post.date} tags={post.tags}/>
       </li>)}
     </ul>
   </section>
