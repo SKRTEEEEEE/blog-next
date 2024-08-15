@@ -11,6 +11,8 @@ Ejemplo básico Frontend utilizando NextJs14 y .mdx
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
+- [Shadcn mdx-components](https://github.com/shadcn-ui/taxonomy/blob/main/components/mdx-components.tsx): Here you can find default components
+
 ## Contacto
 
 ### Agradecimientos
