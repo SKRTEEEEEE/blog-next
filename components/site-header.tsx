@@ -5,7 +5,7 @@ import { cn } from "@/lib/utils";
 import { Icons } from "./icons";
 import { MainNav } from "./main-nav";
 import { MobileNav } from "./mobile-nav";
-import { ModeToggle } from "./mode-toggle";
+import ModeToggle from "./mode-toggle";
 
 export function SiteHeader(){
     return <header className="z-10 sticky top-0 w-full border-b border-border bg-background/95 background-blur supports-[backdrop-filter]:bg-background/60">
