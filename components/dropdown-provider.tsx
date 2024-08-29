@@ -61,7 +61,7 @@ export const DropdownProvider = ({
 
   return (
     <DropdownContext.Provider value={contextValue}>
-      <div ref={dropdownRef} className="relative">
+      <div ref={dropdownRef} className="pt-2 pr-2">
         {children}
       </div>
     </DropdownContext.Provider>

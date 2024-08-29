@@ -72,7 +72,7 @@ export default function ModeToggle() {
       <DropdownTrigger>
         <Paintbrush className="text-accent" />
       </DropdownTrigger>
-      <DropdownContent side="right" sideOffSet={30}>
+      <DropdownContent side="right" align="top">
         <DropdownHeader>Customize Theme</DropdownHeader>
         <DropdownLabel>Mode</DropdownLabel>
         <DropdownItem>
