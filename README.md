@@ -28,8 +28,11 @@ Ejemplo básico Frontend utilizando NextJs14 y .mdx
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns)
 
-- [Shadcn mdx-components](https://github.com/shadcn-ui/taxonomy/blob/main/components/mdx-components.tsx): Here you can find default components for use configure mdx files
-- [Og playground Vercel](https://og-playground.vercel.app/): With this you can play configure a graph image
+- [Shadcn mdx-components](https://github.com/shadcn-ui/taxonomy/blob/main/components/mdx-components.tsx): Default components for use configure mdx files
+- [Og playground Vercel](https://og-playground.vercel.app/): Play configure a graph image
+- [Basic palette playground](https://www.realtimecolors.com/)
+- [Shadcn palette playground](https://oxidus.vercel.app/)
+- [Shadcn ui palette info](https://ui.shadcn.com/docs/theming#other-color-formats)
 
 ## Contacto
 

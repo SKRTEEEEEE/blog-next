@@ -20,18 +20,18 @@ type ThemeType = {
 
 const themes: ThemeType = {
   light: [
-    { name: "zinc", color: "bg-zinc-100" },
-    { name: "orange", color: "bg-orange-500" },
-    { name: "red", color: "bg-red-500" },
-    { name: "blue", color: "bg-blue-500" },
-    { name: "green", color: "bg-green-500" },
+    { name: "grays", color: "bg-zinc-100" },
+    { name: "gold", color: "bg-yellow-300" },
+    { name: "neon", color: "bg-pink-500" },
+    { name: "sky", color: "bg-purple-400" },
+    { name: "soft", color: "bg-gray-800" },
   ],
   dark: [
-    { name: "zinc", color: "bg-zinc-950" },
-    { name: "orange", color: "bg-orange-500" },
-    { name: "red", color: "bg-red-500" },
-    { name: "blue", color: "bg-blue-500" },
-    { name: "green", color: "bg-green-500" },
+    { name: "grays", color: "bg-zinc-950" },
+    { name: "gold", color: "bg-yellow-700" },
+    { name: "neon", color: "bg-pink-600" },
+    { name: "sky", color: "bg-purple-600" },
+    { name: "soft", color: "bg-gray-300" },
   ],
 };
 
